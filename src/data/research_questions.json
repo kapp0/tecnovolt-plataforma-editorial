@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Quais são as principais dores técnicas que clientes relatam antes de chamar a Tecnovolt para revisar painéis?",
+    "resposta": "Falta de confiabilidade em disjuntores gerais que desarmam sem motivo aparente durante picos de produção, superaquecimento em barramentos de cobre por aperto inadequado ou sobrecarga, e a ausência de diagrama unifilar atualizado no painel. O cliente descobre a dor quando precisa fazer uma manutenção emergencial e perde horas tentando identificar qual circuito alimenta cada área."
+  },
+  {
+    "id": 2,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Como a falta de seletividade na proteção afeta a operação de uma usina ou fábrica em pleno funcionamento?",
+    "resposta": "Quando não há coordenação entre a proteção de Baixa Tensão e o relé primário de Média Tensão na subestação, qualquer curto-circuito em uma tomada de oficina ou num pequeno motor de exaustor aciona o disjuntor geral da subestação de entrada, parando a fábrica inteira e gerando prejuízo desproporcional."
+  },
+  {
+    "id": 3,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Qual é a situação real do Prontuário de Instalações Elétricas (PIE) nas empresas antes da auditoria da Tecnovolt?",
+    "resposta": "Na maioria dos casos, o PIE está incompleto ou desatualizado há anos. As modificações de campo ('as built') não foram registradas nos esquemas elétricos, faltam laudos de SPDA e aterramento com ART recente, e os estudos de energia incidente (Arc Flash) da NR-10 nunca foram calculados."
+  },
+  {
+    "id": 4,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Por que o retrofitting de painéis TTA/CCM é preferível à troca completa do quadro?",
+    "resposta": "O retrofitting substitui disjuntores, contatores e gavetas obsoletas mantendo a estrutura mecânica e os barramentos existentes. Isso reduz o tempo de parada da fábrica de semanas para dias e reduz o custo de Capex em até 60% com a garantia técnica de homologação."
+  },
+  {
+    "id": 5,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Quais os riscos de manter leitos de cabos e eletrocalhas sem taxa de ocupação adequada?",
+    "resposta": "O acúmulo excessivo de cabos de potência na mesma eletrocalha gera aquecimento por indução e reduz a capacidade de condução de corrente (fator de agrupamento da NBR 5410). Além disso, misturar cabos de força com cabos de sinal analógico sem blindagem gera ruído e falha em inversores e sensores."
+  },
+  {
+    "id": 6,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Como a variação de temperatura interna de um painel de comando impacta a vida útil dos componentes eletrônicos?",
+    "resposta": "Cada aumento de 10°C acima da temperatura nominal de operação reduz pela metade a vida útil de capacitores e inversores de frequência. A falta de exaustão forçada ou climatização adequada em ambientes agressivos é a maior causa de queima prematura de IHM e CLP."
+  },
+  {
+    "id": 7,
+    "categoria": "Infra & Painéis",
+    "pergunta": "O que a Tecnovolt recomenda quando a distribuidora exige adequação do barramento de entrada de Média Tensão?",
+    "resposta": "Recomendamos estudo prévio de capacidade de ruptura de curto-circuito (kA) e coordenação com a concessionária. Projetamos o cubículo com disjuntor a vácuo, transformadores de potencial (TP) e corrente (TC) com classe de exatidão homologada para evitar reprovação no comissionamento."
+  },
+  {
+    "id": 8,
+    "categoria": "Infra & Painéis",
+    "pergunta": "Quais são os erros mais comuns em aterramento industrial de proteção e funcional?",
+    "resposta": "Confundir aterramento de proteção (PE) com aterramento de sinal ou neutro, utilizar hastes sem medição de resistividade do solo pelo método de Wenner, e não realizar conexões exotérmicas ou de alta pressão nas malhas de malha principal."
+  },
+  {
+    "id": 9,
+    "categoria": "Automação & Redes",
+    "pergunta": "Por que inversores de frequência (VFD) desarmam durante pequenas oscilações de tensão na rede elétrica?",
+    "resposta": "Uma cava de tensão (afundamento momentâneo de alguns milissegundos) faz a tensão do barramento DC do inversor cair abaixo do limite de subproteção. Para plantas críticas, dimensionamos módulos de retenção de energia ou reatâncias de linha para garantir a imunidade do drive."
+  },
+  {
+    "id": 10,
+    "categoria": "Automação & Redes",
+    "pergunta": "Qual é a dor de um gestor de automação quando a rede industrial (Profinet/EtherNet/IP) começa a apresentar intermitência?",
+    "resposta": "A intermitência paralisa máquinas sem gerar código de falha claro no CLP. As causas raízes mais comuns são conectorização incorreta sem aterramento de malha, raio de curvatura excessivo em cabos de rede e ausência de switches gerenciáveis industriais com diagnóstico de pacotes."
+  },
+  {
+    "id": 11,
+    "categoria": "Automação & Redes",
+    "pergunta": "Como a ISA 18.2 de gerenciamento de alarmes evita paradas operacionais em salas de controle?",
+    "resposta": "Em emergências, sistemas sem racionalização geram centenas de alarmes simultâneos (inundação de alarmes), fazendo o operador perder o foco da causa primária. A ISA 18.2 prioriza alarmes por severidade e tempo de resposta necessário."
+  },
+  {
+    "id": 12,
+    "categoria": "Automação & Redes",
+    "pergunta": "Como a integração de telemetria IoT / SCADA atua no monitoramento preventivo de motores de grande porte?",
+    "resposta": "Sensores de vibração e temperatura sem fio instalados nos mananciais do motor enviam dados em tempo real ao SCADA. Tendências de desalinhamento ou falha de rolamento são identificadas semanas antes do travamento mecânico do eixo."
+  },
+  {
+    "id": 13,
+    "categoria": "Automação & Redes",
+    "pergunta": "Quais são os passos para migrar um sistema de automação legado (CLP antigo) sem parar a produção?",
+    "resposta": "Desenvolvemos o programa no novo CLP mantendo o mapa de memória e barramentos de I/O remotos do sistema antigo. O comissionamento é feito em janelas planejadas de parada com simulação prévia em plataforma de gêmeo digital (Digital Twin)."
+  },
+  {
+    "id": 14,
+    "categoria": "Automação & Redes",
+    "pergunta": "Como a cibersegurança industrial (Modelo Purdue / IEC 62443) é aplicada em plantas conectadas à nuvem?",
+    "resposta": "Isolamos a rede de controle (OT) da rede corporativa (IT) através de DMZ e firewalls industriais de inspeção profunda (DPI), garantindo que apenas dados de leitura trafeguem para a nuvem sem acesso externo direto aos CLPs de processo."
+  },
+  {
+    "id": 15,
+    "categoria": "Automação & Redes",
+    "pergunta": "Qual a relevância do sincronismo de tempo (NTP/IEEE 1588) nos registros de oscilografia e eventos de falha?",
+    "resposta": "Sem sincronismo milissegundo entre relés e CLPs, é impossível descobrir quem iniciou a cadeia de falhas em uma perturbação elétrica severa. O protocolo de tempo unifica a linha temporal dos arquivos COMTRADE para análise de causa raiz."
+  },
+  {
+    "id": 16,
+    "categoria": "Normas & Segurança",
+    "pergunta": "O que muda na rotina de engenharia com a transição para a Nova NR-10 (Portaria MTE 737)?",
+    "resposta": "A nova redação exige Gerenciamento de Riscos Ocupacionais (GRO) integrado às instalações elétricas, rigor com estudo de energia incidente (Arc Flash), Permissão de Trabalho (PT) detalhada para atividades não rotineiras e rastreabilidade total nos laudos técnicos."
+  },
+  {
+    "id": 17,
+    "categoria": "Normas & Segurança",
+    "pergunta": "Por que a análise de Arco Elétrico (Arc Flash / IEEE 1584) é indispensável em painéis industriais de média e baixa tensão?",
+    "resposta": "A análise calcula a energia incidente ($cal/cm^2$) a uma determinada distância e estabelece as fronteiras de proteção. Com isso, especifica-se a vestimenta de proteção (EPI categoria de risco 1 a 4) exata para salvar a vida dos eletricistas em caso de falta."
+  },
+  {
+    "id": 18,
+    "categoria": "Normas & Segurança",
+    "pergunta": "Como a aplicação correta de bloqueio e etiquetagem (LOTO - Lockout/Tagout) evita acidentes em paradas de manutenção?",
+    "resposta": "O LOTO garante o isolamento físico de todas as fontes de energia (elétrica, pneumática, hidráulica) com chaves individuais. Nenhuma religação acidental pode ocorrer enquanto houver um eletricista trabalhando no circuito."
+  },
+  {
+    "id": 19,
+    "categoria": "Normas & Segurança",
+    "pergunta": "Qual a obrigatoriedade da inspeção de SPDA conforme a NBR 5419 em estruturas industriais e agrícolas?",
+    "resposta": "A norma exige gerenciamento de risco de descargas atmosféricas (Parte 2) e inspeções periódicas anuais ou visuais de 6 em 6 meses em ambientes agressivos. O laudo deve conter medição de continuidade da malha de captação e descida com microhmímetro."
+  },
+  {
+    "id": 20,
+    "categoria": "Normas & Segurança",
+    "pergunta": "O que a norma NBR 14039 exige no comissionamento de subestações industriais de 13,8 kV a 34,5 kV?",
+    "resposta": "Exige ensaios de rigidez dielétrica do óleo isolante, teste de relação de transformação (TTR), resistência de isolamento dos enrolamentos do transformador e parametrização/teste de injeção secundária dos relés de proteção 50/51, 50N/51N."
+  },
+  {
+    "id": 21,
+    "categoria": "Normas & Segurança",
+    "pergunta": "Como garantir conformidade normativa nas instalações elétricas em Áreas Classificadas (Atmosferas Explosivas)?",
+    "resposta": "Através da especificação de equipamentos Ex (Ex d, Ex e, Ex i) certificados, utilizando prensa-cabos apropriados, vedação de eletrodutos e elaboração do Prontuário de Instalações Elétricas em Atmosferas Explosivas."
+  },
+  {
+    "id": 22,
+    "categoria": "Normas & Segurança",
+    "pergunta": "Qual a responsabilidade técnica (ART) do engenheiro eletricista ao emitir pareceres de adequação técnica?",
+    "resposta": "A ART vincula juridicamente a responsabilidade do engenheiro perante o CREA, garantindo que o diagnóstico e as soluções propostas seguem rigorosamente as normas técnicas vigentes e garantem a segurança patrimonial e humana da planta."
+  },
+  {
+    "id": 23,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Como a medição de Qualidade de Energia (PRODIST Módulo 8) ajuda a reduzir custos na conta de luz e evitar multas?",
+    "resposta": "Identifica excesso de energia reativa (fator de potência baixo) e distorções harmônicas que geram calor e perdas. A instalação de bancos de capacitores automáticos filtrados elimina a cobrança de energia reativa excedente na fatura da concessionária."
+  },
+  {
+    "id": 24,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "O que é necessário preparar antes de migrar uma indústria para o Mercado Livre de Energia (ACL)?",
+    "resposta": "Instalação do Sistema de Medição para Faturamento (SMF) com TPs e TCs homologados com exatidão classe 0.2%, canal de comunicação de dados dedicado com a CCEE e revisão técnica do perfil de carga e contrato de demanda."
+  },
+  {
+    "id": 25,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Como a termografia infravermelha com janela de inspeção previne incêndios em painéis sem abrir as portas?",
+    "resposta": "A instalação de janelas de cristal infravermelho nas portas dos painéis TTA/CCM permite realizar a termografia periódica com o painel energizado e fechado, sem expor a equipe ao risco de arco elétrico (NR-10)."
+  },
+  {
+    "id": 26,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Quais são as etapas críticas de manutenção preventiva em transformadores a óleo na entressafra do Agro?",
+    "resposta": "Coleta e análise físico-química e cromatográfica do óleo dielétrico, secagem ou regeneração de sílica gel, reaperto de conexões de buchas, teste de funcionamento de relé Buchholz e termômetros."
+  },
+  {
+    "id": 27,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Como a análise de vibração e análise de óleo de redutores previne quebras catastróficas em esteiras de transporte?",
+    "resposta": "Detecta o desgaste inicial de dentes de engrenagem e esferas de rolamentos através de frequências de defeito características (BPFO/BPFI), permitindo planejar a troca do componente na parada preventiva sem destruir o redutor."
+  },
+  {
+    "id": 28,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Como mensurar o custo real de 1 hora de fábrica parada por falha elétrica?",
+    "resposta": "Soma-se o valor da produção não gerada, custo de mão de obra ociosa, matéria-prima perdida no processo (ex: concreto ou massa alimentícia endurecida em tubulações) e penalidades por atraso na entrega aos clientes."
+  },
+  {
+    "id": 29,
+    "categoria": "Manutenção & Operação",
+    "pergunta": "Qual a importância dos ensaios de paralelismo e anti-ilhamento (ROCOF) na geração distribuída a Biogás ou Diesel?",
+    "resposta": "Garantem que os geradores sincronizem com a rede da concessionária sem solavancos e desconectem instantaneamente em menos de 100ms em caso de falha externa, protegendo a equipe da concessionária e os geradores da usina."
+  }
+]

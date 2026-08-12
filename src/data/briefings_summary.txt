@@ -1,0 +1,172 @@
+[M01] Auditoria Pré-Obra: Mitigação de Riscos no Comissionamento de Subestações | GANCHO: O que você não vê no comissionamento pode custar dias de produção.
+[M02] Responsabilidade Técnica na Energização: Quem Assina o Laudo de Conformidade? | GANCHO: Uma fiscalização surpresa pode interditar sua subestação por falta de laudos.
+[M03] Expansão Industrial: Dimensionamento de Carga e Risco de Sobrecarga na Subestação | GANCHO: A diretoria comprou máquinas novas, mas esqueceu que a subestação está no limite.
+[M04] Diagnóstico Preditivo vs. Custo de Paralisação: Dimensionando o Escopo de Engenharia | GANCHO: Aquele conserto 'barato' no painel elétrico acabou de derreter o inversor de frequência.
+[M05] Gestão de Ativos Críticos: Risco Operacional, Confiabilidade e Custos Invisíveis | GANCHO: Multas pesadas da ANEEL e motores queimando. Qual é a correlação?
+[M06] O Custo Invisível da Manutenção Reativa: Impacto Direto no EBTIDA Industrial | GANCHO: A diretoria só descobre o estado da subestação quando a fábrica apaga.
+[M07] Planejamento CAPEX: Antecipando Gargalos na Infraestrutura Elétrica | GANCHO: O seu disjuntor geral saiu de linha há 10 anos. Se ele quebrar hoje, sua fábrica para por meses.
+[M08] Logística e Armazenagem: O Risco Elétrico Oculto em Galpões de Alta Densidade | GANCHO: Milhões em estoque armazenado, mas a sala de baterias de empilhadeiras está a um passo de explodir.
+[M09] Suprimentos B2B: Como Justificar o Escopo de Engenharia para a Diretoria | GANCHO: Você levou o orçamento da manutenção para o Diretor e ele cortou 50% sem ler?
+[M10] Horário de Ponta e Falhas da Concessionária: A Resiliência da Subestação Privada | GANCHO: Piscou a luz da rua, a fábrica perdeu 3 placas eletrônicas que custam R$ 20 mil cada.
+[M11] Migração para o Mercado Livre: Impacto Físico na Infraestrutura de Média Tensão | GANCHO: Migração barrada pela concessionária no último dia do prazo. Qual o custo da multa?
+[M12] Limites de Fronteira: O Ponto de Entrega (PAC) e as Responsabilidades da Indústria | GANCHO: Transformador da fábrica explodiu. A concessionária diz que a culpa é sua. E agora?
+[M13] Eficiência Energética e ESG: Descarbonização Baseada na Otimização da Subestação | GANCHO: Sua empresa assinou compromissos ESG, mas os transformadores estão fervendo?
+[N01] Micro e Minigeração Distribuída: O Impacto Regulatório na Confiabilidade da Subestação | GANCHO: Gastou milhões em placas solares e a concessionária reprovou a ligação na cabine?
+[N02] Queda de Consumo vs. Ineficiência Térmica: O Desperdício de CAPEX nas Indústrias | GANCHO: A fábrica reduziu um turno de produção, mas a conta de luz aumentou. Você entende o motivo?
+[N03] Risco de Apagão no SIN (ONS): Estratégias de Contingência para Plantas Industriais | GANCHO: A rede pública sofreu um corte de carga (ERAC) e sua planta perdeu R$ 50 mil em CLPs queimados.
+[N04] Expansão da Demanda (PDE 2035): Como Adequar a Cabine Primária para os Próximos 10 Anos | GANCHO: Comprar maquinário novo sem avaliar a demanda dos transformadores é suicídio industrial.
+[N05] Leilão de Transmissão da ANEEL: Reforço no SIN e o Risco Transitório na Qualidade de Energia | GANCHO: O governo anunciou obras na rede elétrica da sua região? Prepare-se para queimas.
+[N06] Revisão Tarifária Extraordinária: Protegendo a Indústria do Aumento Descontrolado do OPEX | GANCHO: Sua fatura de energia aumentou 15% e a fábrica não aumentou a produção. Qual é a estratégia?
+[N07] Bandeiras Tarifárias e Escassez Hídrica: O Papel da Geração a Diesel e Cogeração Industrial | GANCHO: Bandeira Vermelha e horário de ponta: sua indústria vai pagar KWh a preço de ouro?
+[N08] Fiscalização da ANEEL: Multas por Energia Reativa e a Necessidade Imediata de Filtros Harmônicos | GANCHO: Colocou banco de capacitores para baixar a fatura e, um mês depois, eles explodiram?
+[N09] Fiscalizações do MPT e Auditoria NR-10: Responsabilidade Criminal na Subestação | GANCHO: Fiscalização bate na porta da fábrica e o seu diagrama unifilar é de 10 anos atrás. A planta será embargada.
+[N10] Retrofit para a Indústria 4.0: Adequando Subestações para Cargas Não-Lineares (Inversores e CLPs) | GANCHO: Robôs e inversores travando no meio da madrugada por conta de flutuações de tensão no barramento?
+[N11] Modernização do Setor Elétrico: Descentralização, Autoprodução e Gestão de Ativos em Média Tensão | GANCHO: Você quer ser dono da sua própria energia, mas seu projeto parou na burocracia da cabine?
+[P01] Mercado livre em 2027: organize estes 4 dados | GANCHO: O que acontece de verdade quando a fábrica ignora Mercado livre em 2027: organize estes 4 dados?
+[P02] 75% das migrações recentes vieram do varejo | GANCHO: O que acontece de verdade quando a fábrica ignora 75% das migrações recentes vieram do varejo?
+[P03] A carga do SIN deve crescer: 3 consequências | GANCHO: O que acontece de verdade quando a fábrica ignora A carga do SIN deve crescer: 3 consequências?
+[P04] Data centers e rede elétrica | GANCHO: O que acontece de verdade quando a fábrica ignora Data centers e rede elétrica?
+[P05] Gerar mais não garante entregar mais | GANCHO: O que acontece de verdade quando a fábrica ignora Gerar mais não garante entregar mais?
+[P06] BESS industrial: quando estudar — e quando não começar por ele | GANCHO: O que acontece de verdade quando a fábrica ignora BESS industrial: quando estudar — e quando não começar por ele?
+[P07] Eficiência não começa na compra | GANCHO: O que acontece de verdade quando a fábrica ignora Eficiência não começa na compra?
+[P08] 4 números da gestão de energia | GANCHO: O que acontece de verdade quando a fábrica ignora 4 números da gestão de energia?
+[P09] ISO 50001 x ISO 50002 | GANCHO: O que acontece de verdade quando a fábrica ignora ISO 50001 x ISO 50002?
+[P10] Motor eficiente: a decisão vai além da troca | GANCHO: O que acontece de verdade quando a fábrica ignora Motor eficiente: a decisão vai além da troca?
+[P11] Edéia coloca biometano no radar goiano | GANCHO: O que acontece de verdade quando a fábrica ignora Edéia coloca biometano no radar goiano?
+[P12] Biometano: 4 perguntas antes de chamar resíduo de oportunidade | GANCHO: O que acontece de verdade quando a fábrica ignora Biometano: 4 perguntas antes de chamar resíduo de oportunidade?
+[P13] Tarifa rural: horário também é gestão | GANCHO: O que acontece de verdade quando a fábrica ignora Tarifa rural: horário também é gestão?
+[P14] Cibersegurança OT: 5 perguntas de diretoria | GANCHO: O que acontece de verdade quando a fábrica ignora Cibersegurança OT: 5 perguntas de diretoria?
+[P15] Automação sem governança é risco conectado | GANCHO: O que acontece de verdade quando a fábrica ignora Automação sem governança é risco conectado?
+[P16] O que um escopo elétrico precisa responder | GANCHO: O que acontece de verdade quando a fábrica ignora O que um escopo elétrico precisa responder?
+[P17] O menor preço respondeu ao mesmo escopo? | GANCHO: O que acontece de verdade quando a fábrica ignora O menor preço respondeu ao mesmo escopo??
+[P18] O custo total não está na etiqueta | GANCHO: O que acontece de verdade quando a fábrica ignora O custo total não está na etiqueta?
+[P19] 5 exclusões que evitam surpresa em obra | GANCHO: O que acontece de verdade quando a fábrica ignora 5 exclusões que evitam surpresa em obra?
+[P20] Lead time também é engenharia | GANCHO: O que acontece de verdade quando a fábrica ignora Lead time também é engenharia?
+[P21] Peça disponível não é peça equivalente | GANCHO: O que acontece de verdade quando a fábrica ignora Peça disponível não é peça equivalente?
+[P22] 5 dados antes de pedir uma proposta | GANCHO: O que acontece de verdade quando a fábrica ignora 5 dados antes de pedir uma proposta?
+[P23] Às vezes, ainda não é hora de comprar | GANCHO: O que acontece de verdade quando a fábrica ignora Às vezes, ainda não é hora de comprar?
+[P24] Trocar, reparar, monitorar ou redesenhar? | GANCHO: O que acontece de verdade quando a fábrica ignora Trocar, reparar, monitorar ou redesenhar??
+[P25] Como pedir referência sem quebrar confidencialidade | GANCHO: O que acontece de verdade quando a fábrica ignora Como pedir referência sem quebrar confidencialidade?
+[P26] 5 perguntas para avaliar um integrador | GANCHO: O que acontece de verdade quando a fábrica ignora 5 perguntas para avaliar um integrador?
+[P27] Proposta sem premissa é promessa? | GANCHO: O que acontece de verdade quando a fábrica ignora Proposta sem premissa é promessa??
+[P28] O que pode mudar o preço depois da visita | GANCHO: O que acontece de verdade quando a fábrica ignora O que pode mudar o preço depois da visita?
+[P29] Alteração pequena pode ser intervenção crítica | GANCHO: O que acontece de verdade quando a fábrica ignora Alteração pequena pode ser intervenção crítica?
+[P30] 6 perguntas antes de assinar | GANCHO: O que acontece de verdade quando a fábrica ignora 6 perguntas antes de assinar?
+[P31] A cadeia de sinais antes da falha | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A CADEIA DE SINAIS ANTES DA FALHA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A cadeia de sinais antes da falha?'
+[P32] Disponibilidade, confiabilidade e mantenabilidade | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DISPONIBILIDADE, CONFIABILIDADE E MANTENABILIDADE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Disponibilidade, confiabilidade e mantenabilidade?'
+[P33] Mapa de criticidade em uma página | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM MAPA DE CRITICIDADE EM UMA PÁGINA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Mapa de criticidade em uma página?'
+[P34] Alerta só vale se houver ação possível | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ALERTA SÓ VALE SE HOUVER AÇÃO POSSÍVEL ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Alerta só vale se houver ação possível?'
+[P35] 5 informações para o turno da madrugada | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM 5 INFORMAÇÕES PARA O TURNO DA MADRUGADA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em 5 informações para o turno da madrugada?'
+[P36] Manutenção por condição não é IA em tudo | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM MANUTENÇÃO POR CONDIÇÃO NÃO É IA EM TUDO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Manutenção por condição não é IA em tudo?'
+[P37] O que uma reunião de manutenção deve produzir | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O QUE UMA REUNIÃO DE MANUTENÇÃO DEVE PRODUZIR ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O que uma reunião de manutenção deve produzir?'
+[P38] Falha elétrica também pode virar falha de qualidade | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM FALHA ELÉTRICA TAMBÉM PODE VIRAR FALHA DE QUALIDADE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Falha elétrica também pode virar falha de qualidade?'
+[P39] Painel limpo não é sinônimo de risco controlado | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PAINEL LIMPO NÃO É SINÔNIMO DE RISCO CONTROLADO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Painel limpo não é sinônimo de risco controlado?'
+[P40] Funcionando agora não significa pronto para crescer | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM FUNCIONANDO AGORA NÃO SIGNIFICA PRONTO PARA CRESCER ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Funcionando agora não significa pronto para crescer?'
+[P41] Antes da parada programada | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ANTES DA PARADA PROGRAMADA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Antes da parada programada?'
+[P42] Retrabalho custa mais que horas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM RETRABALHO CUSTA MAIS QUE HORAS ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Retrabalho custa mais que horas?'
+[P43] Da reclamação à investigação | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DA RECLAMAÇÃO À INVESTIGAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Da reclamação à investigação?'
+[P44] O que uma foto de campo não mostra | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O QUE UMA FOTO DE CAMPO NÃO MOSTRA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O que uma foto de campo não mostra?'
+[P45] Diagnóstico remoto responsável | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DIAGNÓSTICO REMOTO RESPONSÁVEL ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Diagnóstico remoto responsável?'
+[P46] Agroindústria em safra: 5 decisões elétricas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM AGROINDÚSTRIA EM SAFRA: 5 DECISÕES ELÉTRICAS ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Agroindústria em safra: 5 decisões elétricas?'
+[P47] Pré-safra não é só manutenção mecânica | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PRÉ-SAFRA NÃO É SÓ MANUTENÇÃO MECÂNICA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Pré-safra não é só manutenção mecânica?'
+[P48] Armazenagem de grãos: cinco pontos de infraestrutura | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ARMAZENAGEM DE GRÃOS: CINCO PONTOS DE INFRAESTRUTURA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Armazenagem de grãos: cinco pontos de infraestrutura?'
+[P49] Alimentos e bebidas: o ambiente também define infraestrutura | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ALIMENTOS E BEBIDAS: O AMBIENTE TAMBÉM DEFINE INFRAESTRUTURA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Alimentos e bebidas: o ambiente também define infraestrutura?'
+[P50] Data center e fábrica: a lição comum é continuidade | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DATA CENTER E FÁBRICA: A LIÇÃO COMUM É CONTINUIDADE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Data center e fábrica: a lição comum é continuidade?'
+[P51] Em tratamento de água, automação é continuidade de serviço | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM EM TRATAMENTO DE ÁGUA, AUTOMAÇÃO É CONTINUIDADE DE SERVIÇO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Em tratamento de água, automação é continuidade de serviço?'
+[P52] Mineração e ambientes agressivos: 5 perguntas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM MINERAÇÃO E AMBIENTES AGRESSIVOS: 5 PERGUNTAS ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Mineração e ambientes agressivos: 5 perguntas?'
+[P53] Nova área produtiva: perguntas antes de ligar | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM NOVA ÁREA PRODUTIVA: PERGUNTAS ANTES DE LIGAR ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Nova área produtiva: perguntas antes de ligar?'
+[P54] Descarbonizar sem comprar tudo de uma vez | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DESCARBONIZAR SEM COMPRAR TUDO DE UMA VEZ ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Descarbonizar sem comprar tudo de uma vez?'
+[P55] Consumo por unidade produzida conta outra história | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM CONSUMO POR UNIDADE PRODUZIDA CONTA OUTRA HISTÓRIA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Consumo por unidade produzida conta outra história?'
+[P56] A página que a diretoria precisa | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A PÁGINA QUE A DIRETORIA PRECISA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A página que a diretoria precisa?'
+[P57] Disponibilidade local muda o plano — se puder ser comprovada | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM DISPONIBILIDADE LOCAL MUDA O PLANO — SE PUDER SER COMPROVADA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Disponibilidade local muda o plano — se puder ser comprovada?'
+[P58] Goiás industrial em transformação | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM GOIÁS INDUSTRIAL EM TRANSFORMAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Goiás industrial em transformação?'
+[P59] O tempo perdido entre fornecedor, engenharia e operação | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O TEMPO PERDIDO ENTRE FORNECEDOR, ENGENHARIA E OPERAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O tempo perdido entre fornecedor, engenharia e operação?'
+[P60] Case em cinco respostas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM CASE EM CINCO RESPOSTAS ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Case em cinco respostas?'
+[P61] Antes de aprovar a rota, faça este teste de cinco minutos | GANCHO: O que acontece de verdade quando a fábrica ignora Antes de aprovar a rota, faça este teste de cinco minutos?
+[P62] O briefing de iluminação que evita comprar no escuro | GANCHO: O que acontece de verdade quando a fábrica ignora O briefing de iluminação que evita comprar no escuro?
+[P63] SPDA: o que um checklist oficial pode exigir de registro | GANCHO: O que acontece de verdade quando a fábrica ignora SPDA: o que um checklist oficial pode exigir de registro?
+[P64] Mapa do alarme: do evento ao registro | GANCHO: O que acontece de verdade quando a fábrica ignora Mapa do alarme: do evento ao registro?
+[P65] O aceite de um painel precisa responder estas quatro perguntas | GANCHO: O que acontece de verdade quando a fábrica ignora O aceite de um painel precisa responder estas quatro perguntas?
+[P66] Três calendários que evitam a pendência eterna | GANCHO: O que acontece de verdade quando a fábrica ignora Três calendários que evitam a pendência eterna?
+[P67] O briefing de rede que economiza uma reunião perdida | GANCHO: O que acontece de verdade quando a fábrica ignora O briefing de rede que economiza uma reunião perdida?
+[P68] Automação com propósito em quatro perguntas | GANCHO: O que acontece de verdade quando a fábrica ignora Automação com propósito em quatro perguntas?
+[P69] Uma página para tirar o risco do abstrato | GANCHO: O que acontece de verdade quando a fábrica ignora Uma página para tirar o risco do abstrato?
+[P70] Inspeção: evidência antes de opinião | GANCHO: O que acontece de verdade quando a fábrica ignora Inspeção: evidência antes de opinião?
+[P71] Quatro campos que não podem faltar na medição | GANCHO: O que acontece de verdade quando a fábrica ignora Quatro campos que não podem faltar na medição?
+[P72] Comissionamento: quatro entregas que a operação precisa receber | GANCHO: O que acontece de verdade quando a fábrica ignora Comissionamento: quatro entregas que a operação precisa receber?
+[P73] Parecer de acesso em quatro blocos de informação | GANCHO: O que acontece de verdade quando a fábrica ignora Parecer de acesso em quatro blocos de informação?
+[P74] Aterramento: quatro perguntas antes da solução | GANCHO: O que acontece de verdade quando a fábrica ignora Aterramento: quatro perguntas antes da solução?
+[P75] Projeto de subestação: do requisito à prancha | GANCHO: O que acontece de verdade quando a fábrica ignora Projeto de subestação: do requisito à prancha?
+[P76] Escopo de iluminação: quatro informações antes da proposta | GANCHO: O que acontece de verdade quando a fábrica ignora Escopo de iluminação: quatro informações antes da proposta?
+[V01] O que um engenheiro observa nos primeiros 10 minutos de uma visita técnica? | GANCHO: Antes de falar em solução, tem muita coisa que um engenheiro precisa entender no local.
+[V02] Obra elétrica não começa pelo cabo | GANCHO: A obra elétrica não começa quando o primeiro cabo é lançado.
+[V03] Como a rota da infraestrutura interfere na manutenção futura | GANCHO: A rota que você escolhe hoje pode facilitar — ou complicar — a manutenção amanhã.
+[V04] Por que deixar espaço no painel é uma decisão de expansão | GANCHO: Um painel atende a operação de hoje. Mas e a de amanhã?
+[V05] O que a identificação de cabos ajuda a resolver anos depois | GANCHO: Essa pequena identificação pode poupar muito tempo quando alguém precisar intervir depois.
+[V06] Antes de desligar uma área, o que precisa estar combinado? | GANCHO: Desligar uma área não é uma decisão que se toma no improviso.
+[V07] Por que elétrica, mecânica e operação precisam conversar | GANCHO: Quando cada frente olha só para a própria etapa, o projeto perde eficiência.
+[V08] O que é um escopo bem feito — sem juridiquês | GANCHO: Um orçamento claro começa com um escopo que todo mundo entende.
+[V09] Como evitar que uma ampliação vire retrabalho | GANCHO: Ampliar a operação sem olhar o todo pode gerar decisões que voltam para a prancheta.
+[V10] O que muda quando a obra acontece com a operação funcionando | GANCHO: Obra em ambiente operacional pede uma pergunta a mais: como isso afeta quem não pode parar?
+[V11] Por que funcionar não é o único critério de uma entrega elétrica | GANCHO: Ver a instalação funcionando é importante. Mas uma entrega técnica não termina aí.
+[V12] O que a equipe organiza antes de uma intervenção crítica | GANCHO: Antes de ir para o campo, a organização já começou aqui.
+[V13] 3 perguntas antes de cotar uma adequação elétrica | GANCHO: Antes de pedir preço para uma adequação, responda estas três perguntas.
+[V14] O que uma parada programada permite resolver com mais segurança | GANCHO: Quando a parada é planejada, a equipe consegue enxergar a intervenção de outro jeito.
+[V15] Corrigir sintoma ou investigar causa? | GANCHO: Nem todo problema recorrente se resolve trocando a mesma peça de novo.
+[V16] Por que a escolha de um equipamento começa pelo ambiente | GANCHO: Antes de perguntar qual equipamento comprar, existe uma pergunta anterior: onde ele vai trabalhar?
+[V17] Quem participa de uma entrega técnica? | GANCHO: Uma entrega técnica não é trabalho de uma pessoa só.
+[V18] Como uma visita de campo transforma um pedido genérico em escopo real | GANCHO: 'Preciso de uma solução elétrica' é o começo da conversa — não o escopo final.
+[V19] Quando cada fornecedor enxerga só a própria etapa | GANCHO: O projeto pode travar quando cada fornecedor olha apenas para a própria entrega.
+[V20] Quais informações ajudam a dimensionar uma nova área produtiva | GANCHO: Vai abrir uma nova área? Estas informações ajudam a começar a conversa elétrica do jeito certo.
+[V21] A peça tem prazo de entrega. Isso entrou no projeto? | GANCHO: O projeto pode estar tecnicamente certo e ainda assim atrasar por uma pergunta que ninguém fez.
+[V22] O custo total de um painel não está na etiqueta | GANCHO: Comparar só a etiqueta de dois painéis é comparar só o começo da conta.
+[V23] O que uma proposta técnica precisa deixar explícito | GANCHO: Uma proposta técnica boa evita duas frases perigosas: ‘eu achei que estava incluso’ e ‘isso não fazia parte’.
+[V24] Como transformar três fotos em uma conversa técnica útil | GANCHO: Três fotos ajudam. Mas, sozinhas, elas raramente contam o problema inteiro.
+[V25] O equipamento é a resposta ou só o começo da pergunta? | GANCHO: Quando alguém pede um equipamento específico, a pergunta técnica ainda está só começando.
+[V26] Trocar ou rebobinar um motor? A decisão começa na placa e na operação | GANCHO: Trocar ou rebobinar um motor não é uma escolha de impulso — e a placa do motor não conta tudo sozinha.
+[V27] Quando uma modificação vira uma obra maior do que parecia | GANCHO: A alteração parecia pequena. Até ela encostar em cinco sistemas diferentes.
+[V28] Quando mecânica e elétrica enxergam só a própria etapa | GANCHO: Retrabalho raramente nasce de uma peça ruim. Muitas vezes nasce de duas equipes olhando só para a própria etapa.
+[V29] Como avaliar um integrador sem quebrar um NDA | GANCHO: Você pode avaliar experiência técnica sem pedir que um fornecedor exponha o cliente dele.
+[V30] A obra vai acontecer com a operação funcionando. O que muda? | GANCHO: Quando a operação não pode parar, a obra precisa ser planejada como parte dela.
+[V31] Seu painel conversa com a rede? Então a segurança também é operacional | GANCHO: Quando um sistema industrial ganha acesso à rede, a conversa deixa de ser só elétrica.
+[V32] Automação que o operador não confia vira automação subutilizada | GANCHO: A automação pode ser tecnicamente excelente e ainda assim ser pouco usada.
+[V33] Antes da IA, os dados da planta estão confiáveis? | GANCHO: Antes de perguntar o que a IA vai prever, vale perguntar se os dados da planta contam uma história confiável.
+[V34] MES, OEE e energia: três números que precisam conversar | GANCHO: Produzir mais não significa, automaticamente, operar melhor.
+[V35] A conta de energia não é o único indicador da gestão energética | GANCHO: A fatura mostra o que foi pago. Nem sempre mostra por que a energia foi consumida daquele jeito.
+[V36] Resíduo, energia e automação: as perguntas antes de falar em biometano | GANCHO: Biometano não começa na tecnologia. Começa na previsibilidade do resíduo e no uso que a operação dará à energia.
+[V37] O que muda na elétrica de uma agroindústria em período de safra? | GANCHO: Na safra, a mesma instalação pode trabalhar sob uma pressão completamente diferente.
+[V38] Como explicar um defeito técnico em uma reunião de diretoria | GANCHO: Diretoria não precisa receber menos informação técnica. Precisa receber a informação organizada para decidir.
+[V39] Radar Tecnovolt: uma manchete de energia em 60 segundos | GANCHO: Uma notícia de energia em 60 segundos — e a pergunta que sua operação deveria fazer depois dela.
+[V40] Caso sem nome: a hipótese inicial estava errada | GANCHO: O problema parecia óbvio. A evidência mostrou outra coisa.
+[V41] A rota que economiza no projeto pode cobrar na manutenção | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A ELETROCALHA É UMA DECISÃO DE MANUTENÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A eletrocalha é uma decisão de manutenção?'
+[V42] O eletroduto que desaparece entre elétrica e mecânica | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O ELETRODUTO QUE SOME NO PROJETO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O eletroduto que some no projeto?'
+[V43] O erro de iluminação que aparece na segunda-feira | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ILUMINAÇÃO PREDIAL COMEÇA NA ROTINA, NÃO NA LUMINÁRIA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Iluminação predial começa na rotina, não na luminária?'
+[V44] Uma rua pode estar acesa e continuar mal resolvida | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ILUMINAÇÃO PÚBLICA: O PONTO ACESO É SÓ O COMEÇO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Iluminação pública: o ponto aceso é só o começo?'
+[V45] SPDA não é uma foto da cobertura | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM SPDA NÃO É ITEM DE RODAPÉ ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em SPDA não é item de rodapé?'
+[V46] O laudo de SPDA que ajuda — e o que só assusta | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM QUANDO O SPDA ENTRA NO CALENDÁRIO DA OPERAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Quando o SPDA entra no calendário da operação?'
+[V47] A sirene tocou. O que a equipe sabe fazer agora? | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ALARME DE INCÊNDIO NÃO TERMINA NA SIRENE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Alarme de incêndio não termina na sirene?'
+[V48] O sensor escolhido pelo estoque pode estar respondendo à pergunta errada | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM SENSOR, AMBIENTE E PROJETO: O TRIO QUE NÃO PODE SER SEPARADO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Sensor, ambiente e projeto: o trio que não pode ser separado?'
+[V49] Case externo: ADAMA integrou CCM, controle e processo | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PAINEL BONITO NÃO É PAINEL PRONTO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Painel bonito não é painel pronto?'
+[V50] Quando o CCM não conversa com o processo, o motor vira suspeito | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM CCM CONVERSA COM PROCESSO, NÃO SÓ COM MOTOR ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em CCM conversa com processo, não só com motor?'
+[V51] Case externo: CCM e ampliação de subestação na mesma história | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM SUBESTAÇÃO NÃO COMEÇA NA PORTA DA SALA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Subestação não começa na porta da sala?'
+[V52] A inspeção precisa terminar em uma agenda | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A INSPEÇÃO QUE EVITA DECISÃO NO SUSTO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A inspeção que evita decisão no susto?'
+[V53] Alta, média e baixa tensão: escolha começa no cenário | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ALTA, MÉDIA E BAIXA TENSÃO NÃO SÃO UMA ESCALA DE PREÇO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Alta, média e baixa tensão não são uma escala de preço?'
+[V54] Notícia: a previsão de carga mudou — o que isso muda no projeto? | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM EXPANSÃO DE CARGA E O DIAGRAMA QUE ENVELHECEU ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Expansão de carga e o diagrama que envelheceu?'
+[V55] Case externo: Oxford colocou energia e manutenção na mesma tela | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM AUTOMAÇÃO NÃO É ENCHER A TELA DE TAGS ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Automação não é encher a tela de tags?'
+[V56] O ponto cego entre elétrica e automação | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O INTERVALO ENTRE ELÉTRICA E AUTOMAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O intervalo entre elétrica e automação?'
+[V57] Análise de risco começa no que pode parar a operação | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ANÁLISE DE RISCO NÃO É FORMULÁRIO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Análise de risco não é formulário?'
+[V58] Medida de proteção sem responsável é decoração de relatório | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM MEDIDA DE PROTEÇÃO SEM CONTEXTO VIRA LISTA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Medida de proteção sem contexto vira lista?'
+[V59] Ensaio periódico não é repetição automática | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ENSAIO PERIÓDICO NÃO É CARIMBO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Ensaio periódico não é carimbo?'
+[V60] Caso externo: o sistema antigo escondia o consumo das bombas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O QUE UMA INSPEÇÃO PRECISA DEVOLVER PARA A OPERAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O que uma inspeção precisa devolver para a operação?'
+[V61] O que uma referência da Fluke coloca antes da continuidade | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM CONTINUIDADE: O NÚMERO SOZINHO NÃO DECIDE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Continuidade: o número sozinho não decide?'
+[V62] A medição começa antes de ligar o instrumento | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM MEDIÇÃO BOA COMEÇA ANTES DO INSTRUMENTO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Medição boa começa antes do instrumento?'
+[V63] Comissionamento é o ensaio de uma promessa | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM COMISSIONAMENTO É ENSAIO DE REALIDADE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Comissionamento é ensaio de realidade?'
+[V64] O último metro é entregar entendimento | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM O ÚLTIMO METRO ENTRE OBRA E OPERAÇÃO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em O último metro entre obra e operação?'
+[V65] Parecer de acesso: o documento precisa contar a história da conexão | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PARECER DE ACESSO COMEÇA ANTES DO PROTOCOLO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Parecer de acesso começa antes do protocolo?'
+[V66] A informação que a concessionária não adivinha | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A INFORMAÇÃO QUE A CONCESSIONÁRIA NÃO ADIVINHA ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A informação que a concessionária não adivinha?'
+[V67] A malha começa no solo, não no desenho | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM A MALHA DE ATERRAMENTO COMEÇA NO SOLO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em A malha de aterramento começa no solo?'
+[V68] Resistividade não é um PDF para anexar no fim | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM RESISTIVIDADE É DADO DE PROJETO ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Resistividade é dado de projeto?'
+[V69] Projeto básico não é um executivo com menos páginas | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PROJETO BÁSICO NÃO É EXECUTIVO MENOR ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Projeto básico não é executivo menor?'
+[V70] A linha termina onde a interface começa | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM LINHA DE TRANSMISSÃO: A INTERFACE NÃO PODE FICAR ÓRFÃ ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Linha de transmissão: a interface não pode ficar órfã?'
+[V71] Notícia técnica: “LED” sozinho não compara duas luminárias | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM PROJETO LUMINOTÉCNICO TRADUZ ROTINA EM LUZ ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Projeto luminotécnico traduz rotina em luz?'
+[V72] Iluminação pública: desenhe também a manutenção | GANCHO: TEXTO NA TELA: O RISCO OCULTO EM ILUMINAÇÃO PÚBLICA: O SISTEMA, NÃO O POSTE ⚡ | FALA: 'Sabe o que acontece quando sua fábrica ignora este detalhe em Iluminação pública: o sistema, não o poste?'
