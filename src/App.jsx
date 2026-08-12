@@ -116,16 +116,17 @@ const BriefingModal = memo(function BriefingModal({ item, onClose, triggerToast 
   const [teleprompter, setTeleprompter] = useState(false);
 
   useEffect(() => {
+    if (!item) return;
     document.body.style.overflow = 'hidden';
     const handleKeyDown = (e) => {
       if (e.key === 'Escape') onClose();
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => {
-      document.body.style.overflow = 'unset';
+      document.body.style.overflow = 'auto';
       window.removeEventListener('keydown', handleKeyDown);
     };
-  }, [onClose]);
+  }, [item, onClose]);
 
   const copyToClipboard = useCallback((text, label) => {
     if (!text) return;
@@ -829,12 +830,14 @@ export default function App() {
         )}
       </main>
 
-      {/* MODAL ISOLADO */}
-      <BriefingModal
-        item={modalItem}
-        onClose={handleCloseModal}
-        triggerToast={triggerToast}
-      />
+      {/* MODAL ISOLADO - Renderizado apenas quando modalItem for selecionado */}
+      {modalItem && (
+        <BriefingModal
+          item={modalItem}
+          onClose={handleCloseModal}
+          triggerToast={triggerToast}
+        />
+      )}
     </div>
   );
 }
