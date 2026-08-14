@@ -406,7 +406,7 @@ export default function App() {
   const stats = useMemo(() => {
     const videos = briefingsData.filter(i => i.id.startsWith('V') || i.id.startsWith('N') || i.id.startsWith('M')).length;
     const posts = briefingsData.filter(i => i.id.startsWith('P')).length;
-    return { videos: videos || 113, posts: posts || 99, total: briefingsData.length || 212 };
+    return { videos: videos || 96, posts: posts || 76, total: briefingsData.length || 172 };
   }, []);
 
   // Filtro de Perguntas com Gestor
@@ -462,7 +462,7 @@ export default function App() {
                 Estratégia, Didática & Estrutura de Conteúdo Completa
               </h1>
               <p style={{ fontSize: '13px', color: 'var(--color-text-muted)', marginTop: '4px' }}>
-                212 Briefings industriais organizados por Roteiros Didáticos, Reels de Retenção, Roteiros Originais e 5 Chapéus de Persona.
+                172 Briefings industriais organizados por Roteiros Didáticos, Reels de Retenção, Roteiros Originais e 5 Chapéus de Persona.
               </p>
             </div>
 
@@ -586,10 +586,10 @@ export default function App() {
                   color: '#fff',
                   fontSize: '14px'
                 }}>
-                <option value="all">Todos os formatos (212)</option>
+                <option value="all">Todos os formatos (172)</option>
                 <option value="top20">⭐ Seleção Especial: Top 20 Melhores</option>
-                <option value="video">Vídeos / Reels (113)</option>
-                <option value="post">Posts / Carrosséis (99)</option>
+                <option value="video">Vídeos / Reels (96)</option>
+                <option value="post">Posts / Carrosséis (76)</option>
               </select>
             </div>
 
